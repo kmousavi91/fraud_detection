@@ -25,9 +25,6 @@ fraud_detection_project/
 │   ├── utils.py
 │   └── __init__.py
 ├── models/                 # Saved model and scaler
-├── data/                   # (optional) for custom datasets
-├── notebooks/              # (optional) for experimentation
-├── tests/                  # (optional) for unit tests
 ├── requirements.txt
 └── README.md
 ```
